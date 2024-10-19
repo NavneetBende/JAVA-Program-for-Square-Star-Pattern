@@ -26,4 +26,4 @@ public class Pattern1 {
 	     }
 	 }
 }
-This code is contributed by Shubham Nigam (Prepinsta Placement Cell Student) 
+
